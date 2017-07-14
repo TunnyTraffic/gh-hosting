@@ -2,16 +2,17 @@
   "meta": {
     "username": "tunnytraffic",
     "repositoryName": "gh-hosting",
-    "branch": "master"
+    "branch": "master",
+    "cname": "blog.liamgraves.com"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://tunnytraffic.github.io",
+    "site": "http://blog.liamgraves.com",
     "hubpress": "http://blog.liamgraves.com",
-    "theme": "//tunnytraffic.github.io/themes/casper",
-    "images": "https://tunnytraffic.github.io/images"
+    "theme": "//blog.liamgraves.com/themes/casper",
+    "images": "http://blog.liamgraves.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
