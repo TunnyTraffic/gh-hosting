@@ -2,17 +2,16 @@
   "meta": {
     "username": "tunnytraffic",
     "repositoryName": "gh-hosting",
-    "branch": "master",
-    "cname": "blog.liamgraves.com"
+    "branch": "master"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "http://blog.liamgraves.com",
-    "hubpress": "https://tunnytraffic.github.io",
-    "theme": "//blog.liamgraves.com/themes/casper",
-    "images": "http://blog.liamgraves.com/images"
+    "site": "https://tunnytraffic.github.io",
+    "hubpress": "http://blog.liamgraves.com",
+    "theme": "//tunnytraffic.github.io/themes/casper",
+    "images": "https://tunnytraffic.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -24,27 +23,5 @@
       null
     ],
     "_Ctor": {}
-  },
-  "site": {
-    "title": "",
-    "description": "",
-    "logo": "",
-    "cover": "",
-    "delay": "",
-    "postsPerPage": "",
-    "googleAnalytics": "",
-    "disqus": ""
-  },
-  "socialnetwork": {
-    "email": "",
-    "github": "tunnytraffic",
-    "twitter": "tunnytraffic",
-    "facebook": "",
-    "googleplus": "",
-    "instagram": "",
-    "pinterest": "",
-    "flickr": "",
-    "linkedin": "",
-    "stackoverflow": ""
   }
 }
