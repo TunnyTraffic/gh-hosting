@@ -3,16 +3,16 @@
     "username": "tunnytraffic",
     "repositoryName": "gh-hosting",
     "branch": "master",
-    "cname": "blog.liamgraves.com"
+    "cname": ""
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "http://blog.liamgraves.com",
+    "site": "https://tunnytraffic.github.io",
     "hubpress": "http://blog.liamgraves.com",
-    "theme": "//blog.liamgraves.com/themes/casper",
-    "images": "http://blog.liamgraves.com/images"
+    "theme": "//tunnytraffic.github.io/themes/casper",
+    "images": "https://tunnytraffic.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
